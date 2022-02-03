@@ -1,0 +1,83 @@
+
+header{
+    margin-top: 30px !important;
+
+}
+.menu{
+    text-decoration: none;
+    color:rgb(102, 99, 99);
+    padding: 40px;
+    font-size: large; 
+}
+.pdf, .message {
+    background-color: #2196F3;
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    cursor: pointer;
+}
+
+#myBtn {
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  font-size: 18px;
+  border: none;
+  background-color:#2196F3;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+  display: none;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.heading{
+    background-color: grey;
+    margin-top: 30px;
+}
+.full_name {
+    color:white;
+    padding-bottom: 20px;
+}
+.profile_img{
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+.icon{
+    width: 50px;
+    height: 50px;
+}
+#profiles {
+    padding-bottom: 40px;
+}
+.shadow{
+    margin-top: 40px;
+    box-shadow: 0px 0px 0px 2px rgb(170, 168, 168);
+   
+}
+h3{
+    color:rgb(18, 141, 172);
+    font-weight: bold;
+}
+#experience{
+    margin-top:40px;
+}
+#education{
+    margin-top:40px;
+}
+.center{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.employee{
+    padding-top: 20px;
+    padding-right: 0;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+    background-color: grey;
+}
